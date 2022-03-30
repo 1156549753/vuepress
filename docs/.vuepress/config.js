@@ -1,7 +1,7 @@
 module.exports = {
     title: 'vuepress 组件文档模拟实操',
     description: 'Just playing around',
-    base: '/',
+    base: '/vuepress/',
     port: '8080',
     themeConfig: {
         nav:[ // 配置顶部导航栏
